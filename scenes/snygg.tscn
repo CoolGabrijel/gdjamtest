@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://bvfvnx0crcrai"]
 
-[ext_resource type="Texture2D" uid="uid://bu8uo0js7ryu4" path="res://scenes/snygg.png" id="1_aomdx"]
+[ext_resource type="Texture2D" uid="uid://bu8uo0js7ryu4" path="res://assets/snygg.png" id="1_aomdx"]
 
 [node name="Snygg" type="Sprite2D"]
 position = Vector2(606, 296)
