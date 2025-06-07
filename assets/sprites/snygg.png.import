@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bu8uo0js7ryu4"
-path="res://.godot/imported/snygg.png-0e7a5fefadb48f9b56db9f874a2191f3.ctex"
+path="res://.godot/imported/snygg.png-091728be5e38792270bd79c89bddb78c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/snygg.png"
-dest_files=["res://.godot/imported/snygg.png-0e7a5fefadb48f9b56db9f874a2191f3.ctex"]
+source_file="res://assets/sprites/snygg.png"
+dest_files=["res://.godot/imported/snygg.png-091728be5e38792270bd79c89bddb78c.ctex"]
 
 [params]
 
