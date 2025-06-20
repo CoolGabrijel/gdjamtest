@@ -4,5 +4,5 @@
 
 [node name="Snygg" type="Sprite2D"]
 position = Vector2(606, 296)
-scale = Vector2(5, 5)
+scale = Vector2(2.5, 2.5)
 texture = ExtResource("1_aomdx")
