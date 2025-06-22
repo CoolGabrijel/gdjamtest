@@ -5,6 +5,11 @@
 [node name="Snygg" type="Sprite2D"]
 position = Vector2(-645, -185)
 rotation = 0.71733
+<<<<<<< Updated upstream
 scale = Vector2(1.005, 1.005)
 skew = -0.802851
+=======
+scale = Vector2(5, 5)
+skew = -0.20944
+>>>>>>> Stashed changes
 texture = ExtResource("1_aomdx")
