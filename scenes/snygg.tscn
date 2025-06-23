@@ -3,8 +3,5 @@
 [ext_resource type="Texture2D" uid="uid://bu8uo0js7ryu4" path="res://assets/sprites/snygg.png" id="1_aomdx"]
 
 [node name="Snygg" type="Sprite2D"]
-position = Vector2(-645, -185)
-rotation = 0.71733
 scale = Vector2(5, 5)
-skew = -0.20944
 texture = ExtResource("1_aomdx")
