@@ -1,9 +1,16 @@
-[gd_scene load_steps=2 format=3 uid="uid://bvfvnx0crcrai"]
+[gd_scene load_steps=3 format=3 uid="uid://bvfvnx0crcrai"]
 
 [ext_resource type="Texture2D" uid="uid://bu8uo0js7ryu4" path="res://assets/sprites/snygg.png" id="1_aomdx"]
+[ext_resource type="AudioStream" uid="uid://m35pxr8811vs" path="res://assets/music/Ema_Skye_2016.mp3" id="2_66qfl"]
 
 [node name="Snygg" type="Sprite2D"]
 position = Vector2(-3077.5, 1184)
 rotation = 3.14159
 scale = Vector2(4.11824, 4.0499)
 texture = ExtResource("1_aomdx")
+
+[node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
+stream = ExtResource("2_66qfl")
+pitch_scale = 0.67
+mix_target = 2
+bus = &"Music"
