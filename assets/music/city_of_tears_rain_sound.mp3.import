@@ -3,12 +3,12 @@
 importer="mp3"
 type="AudioStreamMP3"
 uid="uid://fx26yanf8fjf"
-path="res://.godot/imported/5_Minutes_of_City_of_Tears_Rain_sound_v2.mp3-8b40ca5d9fbf538d32e42405d98ec5f7.mp3str"
+path="res://.godot/imported/city_of_tears_rain_sound.mp3-9e9e79d2b868890f0c7e2c431b07f496.mp3str"
 
 [deps]
 
-source_file="res://assets/music/5_Minutes_of_City_of_Tears_Rain_sound_v2.mp3"
-dest_files=["res://.godot/imported/5_Minutes_of_City_of_Tears_Rain_sound_v2.mp3-8b40ca5d9fbf538d32e42405d98ec5f7.mp3str"]
+source_file="res://assets/music/city_of_tears_rain_sound.mp3"
+dest_files=["res://.godot/imported/city_of_tears_rain_sound.mp3-9e9e79d2b868890f0c7e2c431b07f496.mp3str"]
 
 [params]
 
